@@ -1,1 +1,52 @@
-
+body{
+    font-family: 'Noto Sans SC', sans-serif;
+    margin: 0;
+    
+}
+.orange-color{
+    color: orange;
+}
+h1{
+    font-size: 50px;
+    
+}
+h4{
+    font-weight: 400;
+}
+.link-button{
+    text-decoration: none;
+    background-image: linear-gradient(rgb(240, 190, 97),rgb(250, 83, 53));
+    padding: 10px 18px;
+    color: white;
+    font-weight: 10;
+    border-radius: 20px;
+    
+}
+#top-padding{
+    padding-top: 90px;
+}
+.flexible-container{
+    display: flex;
+    margin-bottom: 120px;
+    padding-left: 120px;
+    padding-top: 30px;
+}
+.half-width{
+    width: 50%;
+    
+}
+.half-width img{
+    width: 60%;
+}
+.top-banner{
+    background-image: url(images/shapes/7.png);
+    background-repeat: no-repeat;
+    background-size: 100%;
+}
+.second-image{
+    padding-left: 200px;
+    padding-top: 20px;
+}
+#new-padding{
+    padding-bottom: 25px;
+}
