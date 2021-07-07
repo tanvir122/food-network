@@ -7,7 +7,7 @@ body{
     color: orange;
 }
 h1{
-    font-size: 50px;
+    font-size: 65px;
     
 }
 h4{
@@ -42,11 +42,108 @@ h4{
     background-image: url(images/shapes/7.png);
     background-repeat: no-repeat;
     background-size: 100%;
+
 }
+
 .second-image{
     padding-left: 200px;
     padding-top: 20px;
 }
 #new-padding{
-    padding-bottom: 25px;
+    padding-bottom: 20px;
 }
+.recipies{
+    text-align: center;
+    text-align:justify middle ;
+}
+
+.onethree{
+    align-items: center;
+}
+.onethree-width{
+    width: 100%;
+}
+
+.onethree-width img{
+    width: 90%;
+    border-radius: 15px;
+    align-content: center;
+}
+
+.all-recipies{
+    width: 15%;
+    margin-left: 5%;
+    margin-right: 5%;
+    padding-top: 15px;
+    padding-left: 20px;
+    padding-right: 20px;
+    border-radius: 10px;
+    box-shadow: 5px 5px 15px rgb(181, 176, 176);
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-weight: 100;
+}
+
+footer {
+    text-align: center;
+    font-size: 15px;
+    color: rgb(80, 83, 86);
+    background-color: black;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    
+    }
+
+.card{
+    
+    text-align: center;
+    margin-bottom: 20px;
+    border-radius: 10px;
+    box-shadow: 5px 5px 15px rgb(181, 176, 176);
+    margin-left: 30%;
+    margin-right: 30%;
+    padding-bottom: 1rem;
+
+}
+.card button{
+    margin-top: 10px;
+    background-color: orange;
+}
+#food-colour{
+    color: orange;
+}
+#lastline-colour{
+    color: white;
+    font-size: 12px;
+}
+form{
+    display: inline;
+  width: 24.5%;
+  text-align: center;
+  margin-top: 1rem;
+  margin-bottom: 1rem;
+  
+}
+.styles{
+   
+  width: 60%;
+  text-align: left;
+  display: inline-block;
+  outline: none;
+  border: 2px solid #ccc;
+  padding: 0.25rem 0.35rem;
+  border-radius: 1rem;
+  margin-bottom: 1rem;
+  font-size: .9rem;
+  color: rgba(0, 0, 0, 0.7);
+}
+
+.styles2{
+    
+      width: 10%;
+      text-align: center;
+      border: 2px solid #ccc;
+      padding: 0.25rem 0.35rem;
+      border-radius: 1rem;
+      margin-bottom: 1rem;
+      
+      }
